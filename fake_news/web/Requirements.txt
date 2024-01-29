@@ -1,0 +1,8 @@
+uvicorn
+fastapi.FastAPI
+joblib.load
+re
+string
+nltk
+nltk.corpus.stopwords
+nltk.stem.WordNetLemmatizer
